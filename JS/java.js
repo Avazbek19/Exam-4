@@ -95,14 +95,14 @@
 // 5 -- vazifa ------------------------------------------------------------------------------------------
 
 
-let works = {
-    birinchi_iw: "Soff Study o’quv markaziga borish",
-    ikkinchi_iw: "Sport bilan shug’illanish",
-    uchinchi_iw: "Jiyanim bilan aylanish"
-}
+// let works = {
+//     birinchi_iw: "Soff Study o’quv markaziga borish",
+//     ikkinchi_iw: "Sport bilan shug’illanish",
+//     uchinchi_iw: "Jiyanim bilan aylanish"
+// }
 
 
-function drawTable (){
+// function drawTable (){
     
-}
-drawTable()
+// }
+// drawTable()
